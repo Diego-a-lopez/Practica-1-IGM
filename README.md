@@ -1,7 +1,7 @@
 # Assignment 1: Adding Texture to Spinning Cube
 
 ## Edited By:
-- Diego Antonio López López (login: diego.a.lopez)
+- Diego Antonio López López (login: diego.a.lopez@udc.es)
 - Alejandro Rodríguez Vaquero (login: a.vaquero@udc.es)
 
 ## Overview:
